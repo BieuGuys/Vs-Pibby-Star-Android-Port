@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Fallen-Star",
+			"Star",
+			[
+				255,
+				235,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "Star vs the Forces of GLITCH",
+	"weekName": "Star glitch Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
