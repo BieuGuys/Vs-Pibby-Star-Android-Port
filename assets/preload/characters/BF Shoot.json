@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				27,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				20,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				8,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				300,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfsrvw",
+	"position": [
+		0,
+		370
+	],
+	"healthicon": "BFandMarco",
+	"flip_x": true,
+	"healthbar_colors": [
+		73,
+		28,
+		178
+	],
+	"camera_position": [
+		120,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

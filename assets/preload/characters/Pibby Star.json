@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Star Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Star Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Star Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Star Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Star Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pibby Star",
+	"position": [
+		-80,
+		-30
+	],
+	"healthicon": "Star",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		180,
+		66
+	],
+	"camera_position": [
+		-10,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
